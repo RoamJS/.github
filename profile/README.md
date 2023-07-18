@@ -18,4 +18,4 @@ The suite of [Roam](https://roamresearch.com) extensions built and maintained by
 - [Slack](https://github.com/RoamJS/slack)
 - [SmartBlocks](https://github.com/RoamJS/smartblocks)
 - [TODO Trigger](https://github.com/RoamJS/todo-trigger)
-- [Workbench](https://github.com/dvargas92495/workbench)
+- [Workbench](https://github.com/RoamJS/workbench)
