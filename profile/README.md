@@ -1,6 +1,6 @@
 # RoamJS
 
-The suite of [Roam](https://roamresearch.com) extensions built and maintained by RoamJS.
+The suite of [Roam Research](https://roamresearch.com) extensions built and maintained by RoamJS.
 
 ## Extensions
 
