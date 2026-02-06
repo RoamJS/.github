@@ -17,5 +17,6 @@ The suite of [Roam](https://roamresearch.com) extensions built and maintained by
 - [Query Builder](https://github.com/RoamJS/query-builder)
 - [Slack](https://github.com/RoamJS/slack)
 - [SmartBlocks](https://github.com/RoamJS/smartblocks)
+- [Stats](https://github.com/RoamJS/stats)
 - [TODO Trigger](https://github.com/RoamJS/todo-trigger)
 - [Workbench](https://github.com/RoamJS/workbench)
