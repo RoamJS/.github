@@ -5,6 +5,7 @@ The suite of [Roam Research](https://roamresearch.com) extensions built and main
 ## Extensions
 
 - [Autotag](https://github.com/RoamJS/autotag)
+- [Breadcrumbs](https://github.com/RoamJS/breadcrumbs)
 - [Developer](https://github.com/RoamJS/developer)
 - [Dropbox](https://github.com/RoamJS/dropbox)
 - [Giphy](https://github.com/RoamJS/giphy)
