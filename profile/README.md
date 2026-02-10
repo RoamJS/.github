@@ -20,4 +20,5 @@ The suite of [Roam Research](https://roamresearch.com) extensions built and main
 - [SmartBlocks](https://github.com/RoamJS/smartblocks)
 - [Stats](https://github.com/RoamJS/stats)
 - [TODO Trigger](https://github.com/RoamJS/todo-trigger)
+- [tldraw](https://github.com/RoamJS/tldraw)
 - [Workbench](https://github.com/RoamJS/workbench)
