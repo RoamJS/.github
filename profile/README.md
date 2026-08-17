@@ -17,6 +17,7 @@ RoamJS helps you turn Roam into a full operating environment for thinking and wo
 - [Breadcrumbs](https://github.com/RoamJS/breadcrumbs): Adds a clickable trail of recent pages and blocks so you can jump back quickly and navigate with context.
 - [Pinned Blocks](https://github.com/RoamJS/pinned-blocks): Keep selected child blocks pinned to the top of their parent.
 - [Query Builder](https://github.com/RoamJS/query-builder): Create powerful graph queries with a visual builder, advanced logic, and table/kanban-style result views.
+- [Quick Switcher](https://github.com/RoamJS/quick-switcher): Save pages and blocks, then jump to them from a fast searchable dialog or the command palette, with aliases and right-sidebar support.
 - [Stats](https://github.com/RoamJS/stats): Get fast graph analytics such as page counts, words, links, and tag usage in a compact dashboard.
 - [Workbench](https://github.com/RoamJS/workbench): A broad power-user toolkit for navigation, command palette enhancements, previews, mind maps, OCR, and more.
 
